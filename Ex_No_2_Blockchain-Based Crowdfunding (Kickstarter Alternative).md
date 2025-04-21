@@ -1,4 +1,9 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
@@ -76,4 +81,11 @@ Teaches decentralized fundraising.
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
+# Output:
+![exp2-1](https://github.com/user-attachments/assets/b74b97f1-d10c-49ee-8cf6-eb8e1aa130b3)
+
+![image](https://github.com/user-attachments/assets/d6ca645a-0705-4cc7-8854-18082d6d2d21)
+
+
 # RESULT: 
+Thus, a decentralized crowdfunding platform has been created and successfully executed.
