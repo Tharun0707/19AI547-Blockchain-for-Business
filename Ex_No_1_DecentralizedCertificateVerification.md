@@ -1,11 +1,16 @@
 ### Experiment 1: Decentralized Certificate Verification
+**Name : Tharun Sridhar**
+**Reg No : 212223230230**
+
 ## Aim:
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
+
 ## Algorithm:
 1. Deploy a smart contract where universities can issue certificates.
 2. Store a hash of certificate data on-chain.
 3. Provide a verification function that checks certificate authenticity.
 4. Users can verify the certificate by comparing the stored hash.
+
 ## Program:
 ```
 // SPDX-License-Identifier: MIT
@@ -39,5 +44,10 @@ High-Level Overview:
 ● Enables quick verification by employers or other institutions.
 ● Shows how blockchain can be used in education and credential verification.
 ```
-# Result:
+# Output:
+![image](https://github.com/user-attachments/assets/ff017ef5-9d11-4032-a829-e2009d5247e2)
 
+![image](https://github.com/user-attachments/assets/9853e8fa-4359-467d-9ebf-aa7a45a171b0)
+
+# Result:
+Thus, to develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity is successfully executed.
