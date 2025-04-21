@@ -8,11 +8,11 @@
   To develop a smart contract for issuing and verifying academic certificates on Ethereum, preventing forgery and ensuring authenticity.
 
 ## Algorithm:
-1. Deploy a smart contract where universities can issue certificates.
-2. Store a hash of certificate data on-chain.
-3. Provide a verification function that checks certificate authenticity.
-4. Users can verify the certificate by comparing the stored hash.
-
+1. Open up Remix or any other Ethereum IDE.
+2. Create a new .sol file and type in the required code.
+3. Run and Debug the code.
+4. Execute the program and verify the given data.
+5. Check and authenticate if the certificates searched are the same using smart contract.
 ## Program:
 ```
 // SPDX-License-Identifier: MIT
