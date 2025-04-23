@@ -1,4 +1,9 @@
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
@@ -76,4 +81,11 @@ Prevents vote tampering while maintaining voter privacy.
 
 Mimics real-world ZK voting applications in governance and DAOs.
 
+## Output:
+![image](https://github.com/user-attachments/assets/f0ff0174-c4dd-490c-a6a0-f39957540bc7)
+
+![image](https://github.com/user-attachments/assets/61646635-0630-4a1e-9f06-0c23b07c6224)
+
+
 # RESULT: 
+Thus, the verification of zero knowledge proof (ZKP) using a voting system was performed successfully. 
