@@ -1,4 +1,9 @@
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
+
+**Name : Tharun Sridhar**
+
+**Reg No : 212223230230**
+
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
 
@@ -42,12 +47,15 @@ contract PasswordlessAuth {
 
 # Expected Output:
 Users can register without a password.
+![6th exp authenticate](https://github.com/user-attachments/assets/c643cd8e-5dfe-4755-af2c-d12c5e072dd3)
 
 
 Users sign a challenge with their private key for authentication.
+![6th exp pbkprk](https://github.com/user-attachments/assets/922faebf-3501-47e2-abb5-1c1223a9a571)
 
 
 The smart contract verifies signatures to confirm identity.
+![6th exp pbkprk false](https://github.com/user-attachments/assets/70922809-60d8-4fd7-bade-5b731be63be1)
 
 
 
@@ -61,3 +69,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus, we have successfully developed a smart contract to implement a secure passwordless authentication system using public key and private key cryptography on Ethereum.
